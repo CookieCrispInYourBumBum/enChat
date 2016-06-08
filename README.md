@@ -4,6 +4,7 @@ An encrypted chat application created for NodeJS
 # About
 enChat is a free to use, open source chat application that uses encryption.
 You are free to modify the code, help out with development, or even release your version as long as you have a link to this GitHub page on there.
+enChat is still in early beta and is not recommended to be used for chats which require the upmost security.
 
 ## Setup a server
 1. Install Node.JS on your server
